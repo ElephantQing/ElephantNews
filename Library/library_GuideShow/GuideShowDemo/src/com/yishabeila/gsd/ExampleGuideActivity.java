@@ -21,7 +21,7 @@ public class ExampleGuideActivity extends AbsGuideActivity {
         page01.mBackground = getResources().getDrawable(R.drawable.bg_page_01);
         SingleElement e01 = new SingleElement(200, 200, 400, 400, 0.0f, 1.0f, BitmapFactory.decodeResource(
                 getResources(), R.drawable.ic_stuff));
-        SingleElement e02 = new SingleElement(700, 800, 700, 100, 0.0f, 1.0f, BitmapFactory.decodeResource(
+        SingleElement e02 = new SingleElement(500, 800, 500, 100, 0.0f, 1.0f, BitmapFactory.decodeResource(
                 getResources(), R.drawable.ic_stuff));
         page01.mElementsList.add(e01);
         page01.mElementsList.add(e02);
