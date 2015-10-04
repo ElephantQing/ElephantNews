@@ -1,5 +1,6 @@
 <resources>
 
     <string name="app_name">ElephantNews</string>
+    <string name="entry">开启新闻之旅</string>
 
 </resources>
